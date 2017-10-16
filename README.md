@@ -14,6 +14,7 @@ github.com/brian1917/vcodeHMAC (https://godoc.org/github.com/brian1917/vcodeHMAC
 ## Credentials File
 Must be structured like the following:
 ```
+[DEFAULT]
 veracode_api_key_id = ID HERE
 veracode_api_key_secret = SECRET HERE
 ```

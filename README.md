@@ -12,7 +12,7 @@ github.com/brian1917/vcodeHMAC (https://godoc.org/github.com/brian1917/vcodeHMAC
 3. `-method`: HTTP Method (e.g., GET, POST, etc.)
 
 ## Executables
-Executables are available in the releases section of this repository: https://github.com/brian1917/vcodeHMAC-CLI/releases.
+Executables for Windows, Mac, and Linux are available in the releases section of this repository: https://github.com/brian1917/vcodeHMAC-CLI/releases.
 
 ## Credentials File
 Must be structured like the following:

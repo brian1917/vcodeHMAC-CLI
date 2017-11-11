@@ -1,7 +1,7 @@
 # Veracode HMAC CLI
 
 ## Description
-CLI tool to generate an authorization header for Veracode APIs using API ID and Key.
+CLI tool to generate an authorization header for Veracode APIs using API ID and Key. Given an HTTP method and URL, and the location of your Veracode API credentials file, you will get the value of an Authorization header printed out for piping into curl, httpie, or other scripting uses.
 
 ## Third-party Packages
 github.com/brian1917/vcodeHMAC (https://godoc.org/github.com/brian1917/vcodeHMAC)
